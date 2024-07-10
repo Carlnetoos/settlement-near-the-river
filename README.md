@@ -6,11 +6,12 @@ WHAT IS IT?
 Investigando a relação entre humanos e ambiente este modelo simula a escolha de novas localidades (assentamentos) observando o curso de um rio e a dinâmica de sua sinuosidade.
 
 Researching the relationship between humans and the environment, this model simulates the choice of new locations (settlements) by observing the course of a river and the dynamics of its sinuosity.
-
+<b>
 HOW IT WORKS
   
 A simulação inicia com a criação de assentamentos próximos ao curso principal do rio, marcando a distância limite em um raio de 25m. O rio então começa a seguir seu fluxo natural. A partir do momento que o curso do rio atinge os assentamentos são criadas novas localidades.
 ícone marrom = assentamentos iniciais. ícone com X = assentamentos destruídos. ícone vermelho = novos assentamentos.
+
 The simulation begins by creating settlements close to the main course of the river, marking the limit distance in a 25m radius. The river then begins to follow its natural flow. From the moment the river reaches the settlements, new localities are created.
 brown icon = initial settlements. X icon = destroyed settlements. red icon = new settlements.
 
