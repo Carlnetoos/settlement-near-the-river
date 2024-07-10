@@ -1,6 +1,6 @@
 # Settlement-near-the-river
 Agent-Based Modeling for Archaeology / The choice of new locations near the river (NetLogo)
-
+<b>
 WHAT IS IT?
 
 Investigando a relação entre humanos e ambiente este modelo simula a escolha de novas localidades (assentamentos) observando o curso de um rio e a dinâmica de sua sinuosidade.
