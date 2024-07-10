@@ -48,4 +48,4 @@ This model uses part of the model code from the netlogo library (River meanders)
 HOW TO CITE
   
 Carlos Pereira de Araujo Neto (UFPI, BR)
-NETO, C. P. A.
+ARAUJO NETO, C. P.
