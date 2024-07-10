@@ -3,8 +3,9 @@ Agent-Based Modeling for Archaeology / The choice of new locations near the rive
 
 WHAT IS IT?
 
-(PT) Investigando a relação entre humanos e ambiente este modelo simula a escolha de novas localidades (assentamentos) observando o curso de um rio e a dinâmica de sua sinuosidade.
-(EN) Researching the relationship between humans and the environment, this model simulates the choice of new locations (settlements) by observing the course of a river and the dynamics of its sinuosity.
+Investigando a relação entre humanos e ambiente este modelo simula a escolha de novas localidades (assentamentos) observando o curso de um rio e a dinâmica de sua sinuosidade.
+
+Researching the relationship between humans and the environment, this model simulates the choice of new locations (settlements) by observing the course of a river and the dynamics of its sinuosity.
 
 HOW IT WORKS
   
