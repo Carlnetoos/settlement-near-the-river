@@ -2,7 +2,7 @@
 Agent-Based Modeling for Archaeology / The choice of new locations near the river (NetLogo)
 <b>
 WHAT IS IT?
-
+<b>
 Investigando a relação entre humanos e ambiente este modelo simula a escolha de novas localidades (assentamentos) observando o curso de um rio e a dinâmica de sua sinuosidade.
 
 Researching the relationship between humans and the environment, this model simulates the choice of new locations (settlements) by observing the course of a river and the dynamics of its sinuosity.
