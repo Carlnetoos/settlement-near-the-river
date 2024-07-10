@@ -1,12 +1,12 @@
 # Settlement-near-the-river
 Agent-Based Modeling for Archaeology / The choice of new locations near the river (NetLogo)
 
-# WHAT IS IT?
+WHAT IS IT?
 
-Investigando a relação entre humanos e ambiente este modelo simula a escolha de novas localidades (assentamentos) observando o curso de um rio e a dinâmica de sua sinuosidade.
-Researching the relationship between humans and the environment, this model simulates the choice of new locations (settlements) by observing the course of a river and the dynamics of its sinuosity.
+(PT) Investigando a relação entre humanos e ambiente este modelo simula a escolha de novas localidades (assentamentos) observando o curso de um rio e a dinâmica de sua sinuosidade.
+(EN) Researching the relationship between humans and the environment, this model simulates the choice of new locations (settlements) by observing the course of a river and the dynamics of its sinuosity.
 
-# HOW IT WORKS
+HOW IT WORKS
   
 A simulação inicia com a criação de assentamentos próximos ao curso principal do rio, marcando a distância limite em um raio de 25m. O rio então começa a seguir seu fluxo natural. A partir do momento que o curso do rio atinge os assentamentos são criadas novas localidades.
 ícone marrom = assentamentos iniciais. ícone com X = assentamentos destruídos. ícone vermelho = novos assentamentos.
